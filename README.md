@@ -14,7 +14,7 @@ Also, made installation and usage a little more accesible.
 3. Click "Console" at the top of the menu that pops up
 4. Type **document.cookie** and copy the entire output
 5. Paste the output in data/sensor_data_cookie.txt
-6. Ctrl+F for the character sequence **_abck** and make sure that the value contains **~0~**. If it contains **~1~** change the 1 to a 0
+6. Ctrl+F for the character sequence **_abck** and make sure that the value contains **\~0\~**. If it contains **\~1\~** change the 1 to a 0
 
 ### Why do I need a virtual credit card?
 
